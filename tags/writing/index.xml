@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on Niall&#39;s Notes</title>
+    <link>https://github.com/rustyniall/notebook.github.io/tags/writing/</link>
+    <description>Recent content in writing on Niall&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2023 18:05:48 +0100</lastBuildDate><atom:link href="https://github.com/rustyniall/notebook.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Granny&#39;s Garden</title>
+      <link>https://github.com/rustyniall/notebook.github.io/posts/grannysgarden/</link>
+      <pubDate>Thu, 06 Apr 2023 18:05:48 +0100</pubDate>
+      
+      <guid>https://github.com/rustyniall/notebook.github.io/posts/grannysgarden/</guid>
+      <description>why does this site look like the BBC Micro game Granny&amp;rsquo;s Garden but without the charming pixel art? I&amp;rsquo;ve always been attracted to some retro aesthetics with my online stuff and normally can&amp;rsquo;t resist a good typewriter font. This is probably because I started out as a serious writer with a typewriter and I often get nostalgic about those early days and the creative frenzy that accompanied them. But this site isn&amp;rsquo;t about being a serious writer, it&amp;rsquo;s about playing around and there&amp;rsquo;s something about the 8/16 bit computer font that, for me, accentuates this playfulness.</description>
+    </item>
+    
+  </channel>
+</rss>

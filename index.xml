@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niall&#39;s Notes</title>
+    <link>https://github.com/rustyniall/notebook.github.io/</link>
+    <description>Recent content on Niall&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2023 18:05:48 +0100</lastBuildDate><atom:link href="https://github.com/rustyniall/notebook.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Granny&#39;s Garden</title>
+      <link>https://github.com/rustyniall/notebook.github.io/posts/grannysgarden/</link>
+      <pubDate>Thu, 06 Apr 2023 18:05:48 +0100</pubDate>
+      
+      <guid>https://github.com/rustyniall/notebook.github.io/posts/grannysgarden/</guid>
+      <description>why does this site look like the BBC Micro game Granny&amp;rsquo;s Garden but without the charming pixel art? I&amp;rsquo;ve always been attracted to some retro aesthetics with my online stuff and normally can&amp;rsquo;t resist a good typewriter font. This is probably because I started out as a serious writer with a typewriter and I often get nostalgic about those early days and the creative frenzy that accompanied them. But this site isn&amp;rsquo;t about being a serious writer, it&amp;rsquo;s about playing around and there&amp;rsquo;s something about the 8/16 bit computer font that, for me, accentuates this playfulness.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://github.com/rustyniall/notebook.github.io/about/</link>
+      <pubDate>Thu, 06 Apr 2023 15:41:43 +0100</pubDate>
+      
+      <guid>https://github.com/rustyniall/notebook.github.io/about/</guid>
+      <description>about me I am a poet, editor, event host and university lecturer. I live in London with my wife and kids and like to keep a low profile these days.
+About this site This site is the unruly sibling of my main website, niallosullivan.co.uk. Whereas my main site functions as a typical website with info about me as well as blog posts and poems, this is more of a place for me to post the kind of ephemera and trifles that might find their way onto my social feeds.</description>
+    </item>
+    
+    <item>
+      <title>Notebook</title>
+      <link>https://github.com/rustyniall/notebook.github.io/posts/notebook/</link>
+      <pubDate>Sat, 01 Apr 2023 12:22:04 +0100</pubDate>
+      
+      <guid>https://github.com/rustyniall/notebook.github.io/posts/notebook/</guid>
+      <description>Hello, this is the notes section for my website, though it also functions as a kind of website within itself, hence the separate url. This is a home for all the posts that might not make the main section, sometimes because they are social media posts and other times becase they&amp;rsquo;re first drafts or fragments. They will run the gamut from microblogging to poems and early drafts and anything else of a more ephemeral nature.</description>
+    </item>
+    
+  </channel>
+</rss>
